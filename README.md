@@ -1,6 +1,6 @@
 # Go Chase It!
 
-Submission for project #2 within the Udacity Robotic Software Engineer nanodegree.
+Submission for project #2 within the Udacity Robotics Software Engineer nanodegree.
 
 ## Description
 
