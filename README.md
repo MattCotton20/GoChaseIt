@@ -9,7 +9,7 @@ A simple two-wheeled robot designed to chase a white ball around its environment
 ## Getting Started
 #### Clone repo into catkin workspace:
 ```
-$ git clone git@github.com:onurbagoren/Ball_Chaser ~/catkin_ws/src
+$ git clone git@github.com:MattCotton20/GoChaseIt ~/catkin_ws/src
 $ cd ~/catkin_ws/
 $ catkin_make
 ```
